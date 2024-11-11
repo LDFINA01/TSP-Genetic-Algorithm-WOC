@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Project4" targetName="update_mappings" />
+      <config projectName="Project4" targetName="TSPGeneticAlgorithm" />
+      <config projectName="Project4" targetName="uninstall" />
+      <config projectName="Project4" targetName="glfw" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="74a987ad-9bf5-45cb-82c6-b1a495615133" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/libs/glfw/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libs/glfw/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/glfw/deps/nuklear.h" beforeDir="false" afterPath="$PROJECT_DIR$/libs/glfw/deps/nuklear.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/glfw/docs/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libs/glfw/docs/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/glfw/src/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libs/glfw/src/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/glfw/tests/triangle-vulkan.c" beforeDir="false" afterPath="$PROJECT_DIR$/libs/glfw/tests/triangle-vulkan.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/imgui/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/libs/imgui/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/imgui/backends/imgui_impl_dx9.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/libs/imgui/backends/imgui_impl_dx9.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/imgui/backends/imgui_impl_glfw.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/libs/imgui/backends/imgui_impl_glfw.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/imgui/backends/imgui_impl_opengl2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/libs/imgui/backends/imgui_impl_opengl2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/imgui/backends/imgui_impl_opengl3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/libs/imgui/backends/imgui_impl_opengl3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/imgui/backends/imgui_impl_sdl2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/libs/imgui/backends/imgui_impl_sdl2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/imgui/examples/example_android_opengl3/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libs/imgui/examples/example_android_opengl3/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/imgui/examples/example_glfw_opengl2/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/libs/imgui/examples/example_glfw_opengl2/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/imgui/examples/example_glfw_opengl3/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/libs/imgui/examples/example_glfw_opengl3/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/imgui/examples/example_glfw_vulkan/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libs/imgui/examples/example_glfw_vulkan/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/imgui/examples/example_glfw_vulkan/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/libs/imgui/examples/example_glfw_vulkan/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/imgui/examples/example_glfw_wgpu/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libs/imgui/examples/example_glfw_wgpu/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/imgui/examples/example_null/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/libs/imgui/examples/example_null/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/imgui/examples/example_win32_opengl3/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/libs/imgui/examples/example_win32_opengl3/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/imgui/imgui.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/libs/imgui/imgui.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/imgui/imgui.h" beforeDir="false" afterPath="$PROJECT_DIR$/libs/imgui/imgui.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/imgui/imgui_demo.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/libs/imgui/imgui_demo.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/imgui/imgui_draw.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/libs/imgui/imgui_draw.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/imgui/imgui_internal.h" beforeDir="false" afterPath="$PROJECT_DIR$/libs/imgui/imgui_internal.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/imgui/imgui_tables.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/libs/imgui/imgui_tables.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/imgui/imgui_widgets.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/libs/imgui/imgui_widgets.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/imgui/imstb_rectpack.h" beforeDir="false" afterPath="$PROJECT_DIR$/libs/imgui/imstb_rectpack.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/imgui/imstb_truetype.h" beforeDir="false" afterPath="$PROJECT_DIR$/libs/imgui/imstb_truetype.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/implot/.github/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/libs/implot/.github/CMakeLists.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/libs/imgui" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_HOME_DIR$/bin/mingw/x86_64-w64-mingw32/include/GL/gl.h" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="2.2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2mP8HjjCfAJJfGEP1jCnfG67U9v" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CMake Application.TSPGeneticAlgorithm.executor": "Run",
+    "CMake Application.TSPGreedy.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Luis Finale/OneDrive/School/CSE 545/Project 5/GeneticAlgorithmWOC",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.intentionPowerPack",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Luis Finale\OneDrive\School\CSE 545\PROJECT3\TSPGreedy\testing" />
+      <recent name="C:\Users\LuisF\OneDrive\School\CSE 545\P3\src" />
+      <recent name="C:\Users\LuisF\OneDrive\School\CSE 545\P3" />
+      <recent name="C:\Users\LuisF\OneDrive\School\CSE 545\P3\cmake-build-debug" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.TSPGeneticAlgorithm">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TSPGeneticAlgorithm" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project4" TARGET_NAME="TSPGeneticAlgorithm" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project4" RUN_TARGET_NAME="TSPGeneticAlgorithm">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="glfw" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project4" TARGET_NAME="glfw" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uninstall" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project4" TARGET_NAME="uninstall" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="update_mappings" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project4" TARGET_NAME="update_mappings" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.TSPGeneticAlgorithm" />
+      <item itemvalue="CMake Application.uninstall" />
+      <item itemvalue="CMake Application.glfw" />
+      <item itemvalue="CMake Application.update_mappings" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74a987ad-9bf5-45cb-82c6-b1a495615133" name="Changes" comment="" />
+      <created>1726966764622</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726966764622</updated>
+      <workItem from="1726966765676" duration="327000" />
+      <workItem from="1727054310680" duration="2927000" />
+      <workItem from="1727111242061" duration="7000" />
+      <workItem from="1727155722172" duration="7086000" />
+      <workItem from="1727164442594" duration="74000" />
+      <workItem from="1727164529112" duration="43000" />
+      <workItem from="1727383022260" duration="100000" />
+      <workItem from="1727383190176" duration="375000" />
+      <workItem from="1727383754604" duration="627000" />
+      <workItem from="1727481192235" duration="20000" />
+      <workItem from="1727614259491" duration="613000" />
+      <workItem from="1727985468440" duration="5100000" />
+      <workItem from="1727996452902" duration="50000" />
+      <workItem from="1727999026162" duration="761000" />
+      <workItem from="1728846986333" duration="1858000" />
+      <workItem from="1729896295714" duration="1150000" />
+      <workItem from="1729897904705" duration="7382000" />
+      <workItem from="1730054681927" duration="3024000" />
+      <workItem from="1730058352349" duration="5830000" />
+      <workItem from="1730153340829" duration="7936000" />
+      <workItem from="1730173064075" duration="3000" />
+      <workItem from="1730174906000" duration="4662000" />
+      <workItem from="1730181595809" duration="17194000" />
+      <workItem from="1730202018640" duration="2642000" />
+      <workItem from="1730225220046" duration="6675000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/TravelPlanner.cpp</url>
+          <line>141</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
